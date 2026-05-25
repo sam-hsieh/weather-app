@@ -1,0 +1,23 @@
+{
+  "name": "天氣預報 App",
+  "short_name": "天氣App",
+  "description": "使用中央氣象署開放資料製作的天氣預報 App",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#74b9ff",
+  "theme_color": "#0984e3",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
